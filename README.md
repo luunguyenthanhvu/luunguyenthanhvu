@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning microservice with spring boot
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -25,19 +25,16 @@ Here are some ideas to get you started:
 
 ### 🚀 Projects
 <ul>
-  <li><a href="https://luunguyenthanhvu.github.io/bubble-animation/">✅ Bubble Animation</a></li>
-  <li><a href="https://luunguyenthanhvu.github.io/password-validation-check/">✅ Password Validation Check</a></li>
-  <li><a href="https://luunguyenthanhvu.github.io/neumorphism/">✅ Neumorphism</a></li>
-  <li><a href="https://luunguyenthanhvu.github.io/animated-magic-menu-indicator/">✅ Animated Magic Menu Indicator</a></li>
-  <li><a href="https://luunguyenthanhvu.github.io/dropdown-menu/">✅ Dropdown Menu</a></li>
-  <li><a href="https://luunguyenthanhvu.github.io/validator-form/">✅ Validator Form</a></li>
-  <li><a href="https://luunguyenthanhvu.github.io/toast-messages/">✅ Toast Messages</a></li>
-  <li><a href="https://luunguyenthanhvu.github.io/tabs-ui/">✅ Tabs UI</a></li>
+  <li><a href="https://github.com/luunguyenthanhvu/AppChat.git">✅ App Chat</a></li>
+  <li><a href="https://github.com/luunguyenthanhvu/ThucTapLTWeb.git">✅ Fruit Web</a></li>
+  <li><a href="https://github.com/luunguyenthanhvu/BookApp.git">✅ Book App</a></li>
 </ul>
 
 ---
 
-### 🎮 Fun Game
+### 🎮 Favorite Game - Genshin Impact
 <p align="center"> 
-  <img src="https://github.com/TamNguyenS/TamNguyenS/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> 
+  <img src="https://wallpapers.com/images/hd/kamisato-ayaka-from-genshin-impact-aesthetic-1lrp6buunabrk6pp.jpg" alt="Genshin Impact" width="400"/> 
 </p>
+
+
