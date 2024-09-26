@@ -14,58 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ### 📚 Github Status -->
-<p>
+
+### 📊 GitHub Stats
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luunguyenthanhvu&show_icons=true&theme=tokyonight" height="175">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luunguyenthanhvu&layout=compact&theme=tokyonight&langs_count=10" height="175">
 </p>
-<!--
-❤ Projects
-<ul>
-  <ol>
-    <a href="https://luunguyenthanhvu.github.io/bubble-animation/">
-      ✅ bubble-animation
-    </a>
-   </ol>
-   <ol>
-    <a href="https://luunguyenthanhvu.github.io/password-validation-check/">
-      ✅ password-validation-check
-    </a>
-  </ol>
-  <ol>
-    <a href="https://luunguyenthanhvu.github.io/neumorphism/">
-      ✅ neumorphism
-    </a>
-  </ol>
-  <ol>
-    <a href="https://luunguyenthanhvu.github.io/animated-magic-menu-indicator/">
-      ✅ animated-magic-menu-indicator
-    </a>
-  </ol>
-  <ol>
-    <a href="https://luunguyenthanhvu.github.io/dropdown-menu/">
-      ✅ dropdown-menu
-    </a>
-  </ol>
-  <ol>
-    <a href="https://luunguyenthanhvu.github.io/validator-form/">
-      ✅ validator-form
-    </a>
-  </ol>
-  <ol>
-    <a href="https://luunguyenthanhvu.github.io/toast-messages/">
-      ✅ toast-messages
-    </a>
-  </ol>
-  <ol>
-    <a href="https://luunguyenthanhvu.github.io/tabs-ui/">
-      ✅ tabs-ui
-    </a>
-  </ol>
-</ul><br/>
 
-💻 Game
-<p> 
-  <img src="https://github.com/TamNguyenS/TamNguyenS/blob/output/github-contribution-grid-snake.svg" alt="huynhit24" /> 
+---
+
+### 🚀 Projects
+<ul>
+  <li><a href="https://luunguyenthanhvu.github.io/bubble-animation/">✅ Bubble Animation</a></li>
+  <li><a href="https://luunguyenthanhvu.github.io/password-validation-check/">✅ Password Validation Check</a></li>
+  <li><a href="https://luunguyenthanhvu.github.io/neumorphism/">✅ Neumorphism</a></li>
+  <li><a href="https://luunguyenthanhvu.github.io/animated-magic-menu-indicator/">✅ Animated Magic Menu Indicator</a></li>
+  <li><a href="https://luunguyenthanhvu.github.io/dropdown-menu/">✅ Dropdown Menu</a></li>
+  <li><a href="https://luunguyenthanhvu.github.io/validator-form/">✅ Validator Form</a></li>
+  <li><a href="https://luunguyenthanhvu.github.io/toast-messages/">✅ Toast Messages</a></li>
+  <li><a href="https://luunguyenthanhvu.github.io/tabs-ui/">✅ Tabs UI</a></li>
+</ul>
+
+---
+
+### 🎮 Fun Game
+<p align="center"> 
+  <img src="https://github.com/TamNguyenS/TamNguyenS/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> 
 </p>
--->
