@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luunguyenthanhvu&theme=react)](https://github.com/luunguyenthanhvu/github-readme-activity-graph)
 ---
-
+<!--
 ### 🚀 Projects
 <ul>
   <li><a href="https://github.com/luunguyenthanhvu/AppChat.git">✅ App Chat</a></li>
@@ -76,5 +76,5 @@ Here are some ideas to get you started:
 <p align="center"> 
   <img src="https://wallpapers.com/images/hd/kamisato-ayaka-from-genshin-impact-aesthetic-1lrp6buunabrk6pp.jpg" alt="Genshin Impact" width="400"/> 
 </p>
-
+-->
 
