@@ -8,11 +8,11 @@
 
 
 
-
+<!--
 <h2 align="center"> 
   <img src="https://media1.tenor.com/m/fd21eoZ9LFkAAAAC/koshi-torako-shikanoko.gif" width="200" height="100%">
 </h2>
-
+--> 
 <!--
 **luunguyenthanhvu/luunguyenthanhvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
