@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Luu Nguyen Thanh Vu!
 - 🎓 I'm a Software Engineering Graduate from Nong Lam University
-- 📫 How to reach me: luunguuenthanhvu123@gmail.com
+- 📫 How to reach me: lntvu.work@gmail.com
 - 💬 Connect with me: 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/766674893118767144)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/v%C5%A9-l%C6%B0u-09a852310/)
